@@ -84,7 +84,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # --- Optional Header Image (Replace the URL with your own logo/image if desired) ---
-header_image_url = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gffoodservice.com.au%2Fresource%2Fcooking-terms-and-definitions%2F&psig=AOvVaw3UFBIlrTF-g7H0aUaECwtD&ust=1741304783349000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjF5_2P9IsDFQAAAAAdAAAAABAE"  # Placeholder image URL
+header_image_url = "https://www.gffoodservice.com.au/content/uploads/2019/08/culinary_terms-hero-1-@2x-1.jpg"  # Placeholder image URL
 st.markdown(f'<img src="{header_image_url}" class="header-img">', unsafe_allow_html=True)
 
 # --- App Title & Subtitle ---
